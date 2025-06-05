@@ -89,8 +89,6 @@ The system should track room usage analytics to optimize facility management.
 
 ## 4. User Interface  
 
-**What are the needs of the interface? Who are the different users for this interface? What will each user need to be able to do through the interface? How will the user interact with the interface?**  
-
 - The UI is web-based, adaptive for desktop and mobile browsers.  
 - **Users:** Students, lecturers, admins, and facilities management.  
   - **Students/Lecturers:** Book rooms, view schedules, receive IoT-based room suggestions, and manage account details.  
@@ -100,7 +98,6 @@ The system should track room usage analytics to optimize facility management.
 
 
 ## 5. Assumptions  
-
 
 - Users have access to modern web browsers and university login credentials.  
 - IoT sensors provide accurate occupancy and temperature data.  
