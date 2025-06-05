@@ -118,4 +118,4 @@ The system should track room usage analytics to optimize facility management.
 
 
 ## 7. Gantt Chart  
-![](requirements/figures/Ganttchart.png)
+![](Requirements/figures/Ganttchart.png)
