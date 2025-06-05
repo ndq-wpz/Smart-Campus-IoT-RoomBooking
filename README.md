@@ -1,5 +1,5 @@
 # Smart-Campus-IoT-RoomBooking
-
+```
 SmartCampus-IoT-RoomBooking-Optimization/
 ├── README.md                    # Giới thiệu dự án, hướng dẫn sử dụng repo
 ├── Requirements/                # Tài liệu yêu cầu
@@ -30,3 +30,4 @@ SmartCampus-IoT-RoomBooking-Optimization/
 └── docs/                        # Tài liệu bổ sung
     ├── Glossary.md              # Từ điển thuật ngữ
     ├── References.md            # Tài liệu tham khảo
+```
