@@ -118,7 +118,4 @@ The system should track room usage analytics to optimize facility management.
 
 
 ## 7. Gantt Chart  
-
-**Please include a screenshot of the GANTT chart that you created with Lucidchart.**  
-
-> [Gantt Chart Placeholder: A Lucidchart Gantt chart will be created to outline the 12-week project timeline, including tasks such as requirement gathering (2 weeks), process modeling (1 week), data mapping (1 week), prototyping (2 weeks), data analysis (2 weeks), UAT planning (1 week), and stakeholder communication (ongoing). Due to text-based response limitations, a screenshot cannot be included here. I can guide you to create this in Lucidchart if needed.]
+![](requirements/figures/Ganttchart.png)
